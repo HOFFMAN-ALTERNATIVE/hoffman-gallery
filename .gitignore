@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+*.log
+*.pem
+*.key
+*.keystore
+*.jks
+.DS_Store
+.idea/
+.vscode/
